@@ -1,6 +1,6 @@
 # RewardAirdrop
 
-NOTE: This project is still in development. I am open to feedback.
+NOTE: This project is still in development. I am open to feedback and possible contributions.
 
 ## Contracts
 
