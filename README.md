@@ -43,4 +43,14 @@ This test contract contains several test cases to validate the functionality of 
 - [Remix IDE](https://remix.ethereum.org/)
 - Solidity Compiler version `0.8.18`
 
+## Future Features
+
+Here are some potential features to be added to the RewardAirdrop project:
+
+- **Delegated Voting**: Allow token holders to delegate their voting power to other addresses.
+- **Proposal Execution Logic**: Implement actual logic for proposal execution based on the proposal type.
+- **Time-Locked Rewards**: Implement a mechanism to lock rewards for a certain period.
+- **Tiered Loyalty Points**: Introduce a tiered system for loyalty points to offer different levels of rewards.
+- **Penalty Mechanism**: Introduce penalties for users who do not participate in governance for a certain period.
+- **Improved Security**: Add more security features, such as pausing contract functionality in emergencies.
 
