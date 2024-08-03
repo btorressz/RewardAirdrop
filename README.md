@@ -1,5 +1,6 @@
 # RewardAirdrop
 
+NOTE: This project is still in development. I am open to feedback.
 
 ## Contracts
 
